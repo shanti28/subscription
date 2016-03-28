@@ -1,0 +1,10 @@
+Title: store Mappings
+
+----
+
+text: id:1241234, name:12431235, sum:1245234;
+
+----
+
+url: www.oggl.com
+

@@ -1,0 +1,10 @@
+.DS_Store
+/site/accounts
+/assets/avatars
+/thumbs/*
+
+/assets
+/kirby
+/node_modules
+panel
+/vendor
